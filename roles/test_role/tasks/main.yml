@@ -1,0 +1,5 @@
+---
+  - name: Run test_module
+    test_module:
+      path: "/ansible-test/test.txt"
+      content: "TEST"
