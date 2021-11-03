@@ -1,4 +1,4 @@
 ---
 # defaults file for test_role
 path: "/home/test.txt"
-content: "Hello!"
+content: "TEST"
